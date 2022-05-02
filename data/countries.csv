@@ -1,0 +1,186 @@
+Country,ISO Codes,ISO2,ISO3,Continent
+Afghanistan,AF / AFG,AF,AFG,Asia
+Albania,AL / ALB,AL,ALB,Europe
+Algeria,DZ / DZA,DZ,DZA,Africa
+Andorra,AD / AND,AD,AND,Europe
+Angola,AO / AGO,AO,AGO,Africa
+Antigua and Barbuda,AG / ATG,AG,ATG,North America
+Argentina,AR / ARG,AR,ARG,South America
+Armenia,AM / ARM,AM,ARM,Asia
+Australia,AU / AUS,AU,AUS,Oceania
+Austria,AT / AUT,AT,AUT,Europe
+Azerbaijan,AZ / AZE,AZ,AZE,Asia
+Bahamas,BS / BHS,BS,BHS,North America
+Bahrain,BH / BHR,BH,BHR,Asia
+Bangladesh,BD / BGD,BD,BGD,Asia
+Barbados,BB / BRB,BB,BRB,North America
+Belarus,BY / BLR,BY,BLR,Europe
+Belgium,BE / BEL,BE,BEL,Europe
+Belize,BZ / BLZ,BZ,BLZ,North America
+Benin,BJ / BEN,BJ,BEN,Africa
+Bhutan,BT / BTN,BT,BTN,Asia
+Bolivia,BO / BOL,BO,BOL,South America
+Bosnia and Herzegovina,BA / BIH,BA,BIH,Europe
+Botswana,BW / BWA,BW,BWA,Africa
+Brazil,BR / BRA,BR,BRA,South America
+Brunei,BN / BRN,BN,BRN,Asia
+Bulgaria,BG / BGR,BG,BGR,Europe
+Burkina Faso,BF / BFA,BF,BFA,Africa
+Burundi,BI / BDI,BI,BDI,Africa
+Cambodia,KH / KHM,KH,KHM,Asia
+Cameroon,CM / CMR,CM,CMR,Africa
+Canada,CA / CAN,CA,CAN,North America
+Central African Republic,CF / CAF,CF,CAF,Africa
+Chad,TD / TCD,TD,TCD,Africa
+Chile,CL / CHL,CL,CHL,South America
+China,CN / CHN,CN,CHN,Asia
+Colombia,CO / COL,CO,COL,South America
+Comoros,KM / COM,KM,COM,Africa
+Costa Rica,CR / CRI,CR,CRI,North America
+Croatia,HR / HRV,HR,HRV,Europe
+Cuba,CU / CUB,CU,CUB,North America
+Cyprus,CY / CYP,CY,CYP,Europe
+Denmark,DK / DNK,DK,DNK,Europe
+Djibouti,DJ / DJI,DJ,DJI,Africa
+Dominica,DM / DMA,DM,DMA,North America
+Dominican Republic,DO / DOM,DO,DOM,North America
+Ecuador,EC / ECU,EC,ECU,South America
+Egypt,EG / EGY,EG,EGY,Africa
+El Salvador,SV / SLV,SV,SLV,North America
+Equatorial Guinea,GQ / GNQ,GQ,GNQ,Africa
+Eritrea,ER / ERI,ER,ERI,Africa
+Estonia,EE / EST,EE,EST,Europe
+Ethiopia,ET / ETH,ET,ETH,Africa
+Fiji,FJ / FJI,FJ,FJI,Oceania
+Finland,FI / FIN,FI,FIN,Europe
+France,FR / FRA,FR,FRA,Europe
+Gabon,GA / GAB,GA,GAB,Africa
+Gambia,GM / GMB,GM,GMB,Africa
+Georgia,GE / GEO,GE,GEO,Europe
+Germany,DE / DEU,DE,DEU,Europe
+Ghana,GH / GHA,GH,GHA,Africa
+Greece,GR / GRC,GR,GRC,Europe
+Grenada,GD / GRD,GD,GRD,South America
+Guatemala,GT / GTM,GT,GTM,North America
+Guinea,GN / GIN,GN,GIN,Africa
+Guinea-Bissau,GW / GNB,GW,GNB,Africa
+Guyana,GY / GUY,GY,GUY,South America
+Haiti,HT / HTI,HT,HTI,North America
+Honduras,HN / HND,HN,HND,North America
+Hungary,HU / HUN,HU,HUN,Europe
+Iceland,IS / ISL,IS,ISL,Europe
+India,IN / IND,IN,IND,Asia
+Indonesia,ID / IDN,ID,IDN,Asia
+Iran,IR / IRN,IR,IRN,Asia
+Iraq,IQ / IRQ,IQ,IRQ,Asia
+Ireland,IE / IRL,IE,IRL,Europe
+Israel,IL / ISR,IL,ISR,Asia
+Italy,IT / ITA,IT,ITA,Europe
+Jamaica,JM / JAM,JM,JAM,North America
+Japan,JP / JPN,JP,JPN,Asia
+Jordan,JO / JOR,JO,JOR,Asia
+Kazakhstan,KZ / KAZ,KZ,KAZ,Asia
+Kenya,KE / KEN,KE,KEN,Africa
+Kiribati,KI / KIR,KI,KIR,Oceania
+Kuwait,KW / KWT,KW,KWT,Asia
+Kyrgyzstan,KG / KGZ,KG,KGZ,Asia
+Laos,LA / LAO,LA,LAO,Asia
+Latvia,LV / LVA,LV,LVA,Europe
+Lebanon,LB / LBN,LB,LBN,Asia
+Lesotho,LS / LSO,LS,LSO,Africa
+Liberia,LR / LBR,LR,LBR,Africa
+Libya,LY / LBY,LY,LBY,Africa
+Liechtenstein,LI / LIE,LI,LIE,Europe
+Lithuania,LT / LTU,LT,LTU,Europe
+Luxembourg,LU / LUX,LU,LUX,Europe
+Madagascar,MG / MDG,MG,MDG,Africa
+Malawi,MW / MWI,MW,MWI,Africa
+Malaysia,MY / MYS,MY,MYS,Asia
+Maldives,MV / MDV,MV,MDV,Asia
+Mali,ML / MLI,ML,MLI,Africa
+Malta,MT / MLT,MT,MLT,Europe
+Georgia,MH / MHL,MH,MHL,Oceania
+Mauritania,MR / MRT,MR,MRT,Africa
+Mauritius,MU / MUS,MU,MUS,Africa
+Mexico,MX / MEX,MX,MEX,North America
+Micronesia,FM / FSM,FM,FSM,Oceania
+Moldova,MD / MDA,MD,MDA,Europe
+Monaco,MC / MCO,MC,MCO,Europe
+Mongolia,MN / MNG,MN,MNG,Asia
+Montenegro,ME / MNE,ME,MNE,Europe
+Morocco,MA / MAR,MA,MAR,Africa
+Mozambique,MZ / MOZ,MZ,MOZ,Africa
+Myanmar,MM / MMR,MM,MMR,Asia
+Namibia,NA / NAM,,NAM,Africa
+Nauru,NR / NRU,NR,NRU,Oceania
+Nepal,NP / NPL,NP,NPL,Asia
+Netherlands,NL / NLD,NL,NLD,Europe
+New Zealand,NZ / NZL,NZ,NZL,Oceania
+Nicaragua,NI / NIC,NI,NIC,North America
+Niger,NE / NER,NE,NER,Africa
+Nigeria,NG / NGA,NG,NGA,Africa
+North Korea,KP / PRK,KP,PRK,Asia
+Norway,NO / NOR,NO,NOR,Europe
+Oman,OM / OMN,OM,OMN,Asia
+Pakistan,PK / PAK,PK,PAK,Asia
+Palau,PW / PLW,PW,PLW,Asia
+Palestine,PS / PSE,PS,PSE,Asia
+Panama,PA / PAN,PA,PAN,North America
+Papua New Guinea,PG / PNG,PG,PNG,Oceania
+Paraguay,PY / PRY,PY,PRY,South America
+Peru,PE / PER,PE,PER,South America
+Philippines,PH / PHL,PH,PHL,Asia
+Poland,PL / POL,PL,POL,Europe
+Portugal,PT / PRT,PT,PRT,Europe
+Puerto Rico,PR / PRI,PR,PRI,North America
+Qatar,QA / QAT,QA,QAT,Asia
+Republic of the Congo,CG / COG,CG,COG,Africa
+Romania,RO / ROU,RO,ROU,Europe
+Russia,RU / RUS,RU,RUS,Europe
+Rwanda,RW / RWA,RW,RWA,Africa
+Saint Lucia,LC / LCA,LC,LCA,North America
+Samoa,WS / WSM,WS,WSM,Oceania
+San Marino,SM / SMR,SM,SMR,Europe
+Saudi Arabia,SA / SAU,SA,SAU,Asia
+Senegal,SN / SEN,SN,SEN,Africa
+Serbia,RS / SRB,RS,SRB,Europe
+Seychelles,SC / SYC,SC,SYC,Africa
+Sierra Leone,SL / SLE,SL,SLE,Africa
+Singapore,SG / SGP,SG,SGP,Asia
+Slovakia,SK / SVK,SK,SVK,Europe
+Slovenia,SI / SVN,SI,SVN,Europe
+Solomon Islands,SB / SLB,SB,SLB,Oceania
+Somalia,SO / SOM,SO,SOM,Africa
+South Africa,ZA / ZAF,ZA,ZAF,Africa
+South Korea,KR / KOR,KR,KOR,Asia
+South Sudan,SS / SSD,SS,SSD,Africa
+Spain,ES / ESP,ES,ESP,Europe
+Sri Lanka,LK / LKA,LK,LKA,Asia
+Sudan,SD / SDN,SD,SDN,Africa
+Suriname,SR / SUR,SR,SUR,South America
+Sweden,SE / SWE,SE,SWE,Europe
+Switzerland,CH / CHE,CH,CHE,Europe
+Syria,SY / SYR,SY,SYR,Asia
+Tajikistan,TJ / TJK,TJ,TJK,Asia
+Tanzania,TZ / TZA,TZ,TZA,Africa
+Thailand,TH / THA,TH,THA,Asia
+Togo,TG / TGO,TG,TGO,Africa
+Tonga,TO / TON,TO,TON,Asia
+Trinidad and Tobago,TT / TTO,TT,TTO,North America
+Tunisia,TN / TUN,TN,TUN,Africa
+Turkey,TR / TUR,TR,TUR,Asia
+Turkmenistan,TM / TKM,TM,TKM,Asia
+Tuvalu,TV / TUV,TV,TUV,Oceania
+Uganda,UG / UGA,UG,UGA,Africa
+Ukraine,UA / UKR,UA,UKR,Europe
+United Arab Emirates,AE / ARE,AE,ARE,Asia
+United Kingdom,GB / GBR,GB,GBR,Europe
+United States,US / USA,US,USA,North America
+Uruguay,UY / URY,UY,URY,South America
+Uzbekistan,UZ / UZB,UZ,UZB,Asia
+Vanuatu,VU / VUT,VU,VUT,Oceania
+Venezuela,VE / VEN,VE,VEN,South America
+Vietnam,VN / VNM,VN,VNM,Asia
+Yemen,YE / YEM,YE,YEM,Asia
+Zambia,ZM / ZMB,ZM,ZMB,Africa
+Zimbabwe,ZW / ZWE,ZW,ZWE,Africa

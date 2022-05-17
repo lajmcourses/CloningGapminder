@@ -22,7 +22,7 @@
 
 Tam, kad paleisti projektinius notebook'us, reikia instaliuoti
 
-    a) Python, projekte buvo panauduota 3.10.1 versija
+    a) Python, projekte buvo panaudota 3.10.1 versija
     b) Python paketus įvardintus faile **requirements.txt**
 
 Paketų instaliacija:

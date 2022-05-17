@@ -18,7 +18,7 @@
 
     http://demo.bokeh.org/gapminder
 
-## Python paketų instaliaciją
+## Python paketų instaliacija
 
 Tam, kad paleisti projektinius notebook'us, reikia instaliuoti
 
